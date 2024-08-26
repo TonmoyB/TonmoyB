@@ -55,8 +55,8 @@
 <br/>  
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TonmoyB&theme=dark&border_radius=1.8&card_width=490&card_height=180&type=png" alt="GitHub Streak" /></a>
-  <a href="https://github.com/TonmoyB/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TonmoyB&repo=github-readme-stats" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonmoyB&theme=dark&hide_border=false" alt="TonmoyB's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TonmoyB&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="TonmoyB's GitHub Stats" />
 </div>  
 <br/>  
 <div align="center">
