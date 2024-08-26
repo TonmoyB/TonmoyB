@@ -1,4 +1,4 @@
-## <div align="center"><h2>Hello, I'm Tonmoy Banik 👋</h2><h3> Welcome to my profile!!! </h3> </div>  
+## <div align="center"><h2>Hello, I'm Tonmoy Banik 👋</h2> </div>  
   
 
 - 🎓 A recent graduate from AUST  
