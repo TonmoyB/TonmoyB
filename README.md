@@ -60,4 +60,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=TonmoyB&&style=flat-square" align="center" />
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Titilium+Web&weight=500&size=23&pause=1000&color=E74C3C&background=BDC3C700&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting;Contact+me+for+any+collaboration!;I'm+Always+open+to+work" alt="Typing SVG" /></a>
+</h1>
 </div>  
