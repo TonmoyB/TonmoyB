@@ -55,7 +55,7 @@
 <br/>  
 
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats-TonmoyB-projects.vercel.app/?user=TonmoyB&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats-tonmoyb-projects.vercel.app/?user=TonmoyB&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img src="https://github-readme-stats.vercel.app/api?username=TonmoyB&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>  
 
