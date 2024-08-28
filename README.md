@@ -7,7 +7,7 @@
 - 💼 I’m currently working on a project based on Rest API and NodeJS  
   
 
-- 🔎 Actively looking for a permanent job  
+- 🔎 Actively looking for a job  
   
 
 <br/>  
