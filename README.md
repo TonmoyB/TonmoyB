@@ -4,7 +4,7 @@
 - 🎓 A recent graduate from AUST  
   
 
-- 💼 I’m currently working on a project based on Rest API and NextJS  
+- 💼 I’m currently working on a project based on Rest API and NodeJS  
   
 
 - 🔎 Actively looking for a permanent job  
