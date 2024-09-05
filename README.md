@@ -16,7 +16,7 @@
 <a href="mailto:tonmoybtonoy13@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tonmoy-banik-tonoy/" target="_blank">
+<a href="https://www.linkedin.com/in/tonmoy-banik-tonoy/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>
