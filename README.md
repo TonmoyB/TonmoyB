@@ -1,10 +1,10 @@
-## <div align="center"><h2>Hello, I'm Tonmoy Banik 👋</h2> </div>  
+## <div align="center"><h2>Hello, Welcome to my profile! 👋</h2> </div>  
   
 
 - 🎓 A recent graduate from AUST  
   
 
-- 💼 I’m currently working on a project based on Rest API and NodeJS  
+- 💼 I’m currently working as an Inter Developer at SELISE  
   
 
 - 🔎 Actively looking for a job  
