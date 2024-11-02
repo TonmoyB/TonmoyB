@@ -4,7 +4,7 @@
 - 🎓 A recent graduate from AUST  
   
 
-- 💼 I’m currently working as an <h3>Inter Developer</h3> at SELISE  
+- 💼 I’m currently working as an <h4>Inter Developer</h4> at SELISE  
   
 
 - 🔎 Actively looking for a job  
