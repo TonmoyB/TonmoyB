@@ -1,14 +1,10 @@
 ## <div align="center"><h2>Hello, Welcome to my profile! 👋</h2> </div>  
   
 
-- 🎓 A recent graduate from AUST  
+- 🎓 Graduate from AUST  
   
 
-- 💼 I’m currently working as an Intern Developer at SELISE  
-  
-
-- 🔎 Actively looking for a job  
-  
+- 💼 I’m currently working as an Associate Software Engineer at SELISE    
 
 <br/>  
 
