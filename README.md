@@ -4,7 +4,7 @@
 - 🎓 Graduate from AUST  
   
 
-- 💼 I’m currently working as an Associate Software Engineer at SELISE    
+- 💼 I’m currently working as Software Engineer at SELISE    
 
 <br/>  
 
